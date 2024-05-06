@@ -214,7 +214,7 @@ signature\n ");
 }
 ```
 ## OUTPUT:
-![Screenshot 2024-05-06 184302](https://github.com/hemanth2110/Ex-04/assets/121078629/b4d5708f-e757-48c9-9f95-c944881e3ccf)
+![Screenshot 2024-05-06 185126](https://github.com/hemanth2110/Ex-04/assets/121078629/9642ea09-e1e6-40a1-8eee-28a9fbe97aee)
 
 
 ## RESULT:
