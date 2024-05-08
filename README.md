@@ -9,7 +9,7 @@ Message is “padded” with a 1 and as many 0’s as necessary to bring the
 message length to 64 bits fewer than an even multiple of 512.
 Step 2: Append Length....
 64 bits are appended to the end of the padded message. These bits hold the
-binary format of 64 bits indicating the length of the original message.
+binary format of 64 bits indicating the length of the original message
 Step 3: Prepare Processing Functions….
 SHA1 requires 80 processing functions defined as:
 f(t;B,C,D) = (B AND C) OR ((NOT B) AND D) ( 0 <= t <= 19)
